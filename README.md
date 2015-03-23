@@ -1,19 +1,31 @@
-Ticker: GSM
-Algorithm: X11
-Total POW coins: 3M
-Premine: 0.8%
-Block time: 60 seconds
-PoS Interest: 10%
-min TX fee: 0.001
-Tx confirmations:10
-Block confirmations:100
-   
-     0- 1000 - 600
-1001- 2000 - 100
-2001- 3000 - 600
-3001- 4000 - 100
-4001- 5000 - 600
-5001- 6000 - 100
-6001- 7000 - 600
-7001- 8000 - 300
-POW end
+GSMcoin Cryptocurrency
+Cellphone network unlock service
+Total POW coins: 1.8M
+
+Website: http://gsmcoin.info/
+Unlock service: http://unlock.gsmcoin.info/
+Whitepaper: https://drive.google.com/file/d/0B4Fe74DAWY5cdGd1bHR3Ym85eVk/view
+
+Block explorers:
+- Wallet integrated
+- http://107.170.243.113:2750/
+- http://www.cryptoplorer.com/
+- 
+Coinmarketcap: http://coinmarketcap.com/currencies/gsmcoin/
+Cryptonator: https://www.cryptonator.com/rates/GSM-BTC
+
+Exchanges:
+- https://bittrex.com/Market/Index?MarketName=BTC-GSM
+- https://c-cex.com/?p=gsm-btc
+- https://yobit.net/en/trade/GSM/BTC
+- https://cryptoine.com/trade/gsm_btc
+
+Social:
+Twitter: https://twitter.com/gsmcoin
+Article: http://cryptocoinupdates.com/gsmcoin-new-cryptocurrency-with-usage-in-real-world/
+Article: https://cryptaphex.wordpress.com/2015/03/11/gsmcoin-new-cryptocurrency-with-usage-in-real-world/
+
+Merchants:
+Graphic design & Web design: http://www.logocreator.us/
+
+
