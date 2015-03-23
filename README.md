@@ -9,9 +9,10 @@ Whitepaper: https://drive.google.com/file/d/0B4Fe74DAWY5cdGd1bHR3Ym85eVk/view
 Block explorers:
 - Integrated in wallet
 - http://107.170.243.113:2750
+- http://cryptoplorer.com/
 
-Coinmarketcap: http://coinmarketcap.com/currencies/gsmcoin
-Cryptonator: https://cryptonator.com/rates/GSM-BTC
+- Coinmarketcap: http://coinmarketcap.com/currencies/gsmcoin
+- Cryptonator: https://cryptonator.com/rates/GSM-BTC
 
 Exchanges:
 - https://bittrex.com/Market/Index?MarketName=BTC-GSM
