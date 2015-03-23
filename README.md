@@ -2,17 +2,17 @@ GSMcoin Cryptocurrency
 Cellphone network unlock service
 Total POW coins: 1.8M
 
-Website: http://gsmcoin.info/
-Unlock service: http://unlock.gsmcoin.info/
+Website: http://gsmcoin.info
+Unlock service: http://unlock.gsmcoin.info
 Whitepaper: https://drive.google.com/file/d/0B4Fe74DAWY5cdGd1bHR3Ym85eVk/view
 
 Block explorers:
 - Wallet integrated
-- http://107.170.243.113:2750/
-- http://www.cryptoplorer.com/
+- http://107.170.243.113:2750
+- http://cryptoplorer.com
 - 
-Coinmarketcap: http://coinmarketcap.com/currencies/gsmcoin/
-Cryptonator: https://www.cryptonator.com/rates/GSM-BTC
+Coinmarketcap: http://coinmarketcap.com/currencies/gsmcoin
+Cryptonator: https://cryptonator.com/rates/GSM-BTC
 
 Exchanges:
 - https://bittrex.com/Market/Index?MarketName=BTC-GSM
