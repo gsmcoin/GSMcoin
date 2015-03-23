@@ -1,0 +1,4 @@
+Building GSMcoin
+See doc/readme-qt.rst for instructions on building GSMcoin QT.
+
+See doc/build-*.txt for instructions on building GSMcoind.
