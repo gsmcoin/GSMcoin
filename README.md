@@ -7,6 +7,7 @@ GSMcoin
 ================================
 
 http://www.gsmcoin.info
+Forum: https://bitcointalk.org/index.php?topic=964014.0
 
 Copyright (c) 20015 GSMcoin Developers
 
