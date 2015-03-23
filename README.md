@@ -1,10 +1,10 @@
-GSMcoin Cryptocurrency
-Cellphone network unlock service
-Total POW coins: 1.8M
+-GSMcoin Cryptocurrency
+-Cellphone network unlock service
+-Total POW coins: 1.8M
 
-Website: http://gsmcoin.info
-Unlock service: http://unlock.gsmcoin.info
-Whitepaper: https://drive.google.com/file/d/0B4Fe74DAWY5cdGd1bHR3Ym85eVk/view
+-Website: http://gsmcoin.info
+-Unlock service: http://unlock.gsmcoin.info
+-Whitepaper: https://drive.google.com/file/d/0B4Fe74DAWY5cdGd1bHR3Ym85eVk/view
 
 Block explorers:
 - Integrated in wallet
