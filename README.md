@@ -8,8 +8,10 @@ GSMcoin
 - Website: http://www.gsmcoin.info
 - Forum: https://bitcointalk.org/index.php?topic=964014.0
 - Unlock service: http://www.unlock.gsmcoin.info
+- Mobilephone shop: http://www.phones.gsmcoin.info
+- Price exchange: http://www.price.gsmcoin.info
 
-Copyright (c) 20015 GSMcoin Developers
+Copyright (c) 2015 GSMcoin Developers
 
 GSMcoin Cryptocurrency
 ----------------
